@@ -81,7 +81,7 @@ export function PromptForm({
               <span className="sr-only">New Chat</span>
             </Button>
           </TooltipTrigger>
-          <TooltipContent>New Chat</TooltipContent>
+          <TooltipContent>New Chat interface</TooltipContent>
         </Tooltip>
         <Textarea
           ref={inputRef}
